@@ -1,5 +1,5 @@
 # Class Repository
-### IBM Learnquest Java 1 Aug 14-18
+### IBM LearnQuest Java 1 Aug 14-18
 
 This repository contains all of the instructional materials used in the Introduction to Java Class.
 
