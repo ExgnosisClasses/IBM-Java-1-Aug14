@@ -10,7 +10,7 @@ The material in this repository created by Rod Davison is distributed under a cr
 **Several Creative Commons Java programming books have been added to the extras folder.**
 
 ### Intermediate Repository
-[Intermediate Java Repo](https://github.com/ExgnosisClasses/IBM-Java-2-Aug21): Content for the intermediate repo will be finalized by August 28
+[Intermediate Java Repo]([https://github.com/ExgnosisClasses/IBM-Java-2-Aug21](https://github.com/ExgnosisClasses/IBM-Java-2-Aug21-23)): Content for the intermediate repo will be finalized by August 28
 
 ## Reading List
 
