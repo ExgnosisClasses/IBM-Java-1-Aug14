@@ -10,7 +10,7 @@ The material in this repository created by Rod Davison is distributed under a cr
 **Several Creative Commons Java programming books have been added to the extras folder.**
 
 ### Intermediate Repository
-[Intermediate Java Repo]([https://github.com/ExgnosisClasses/IBM-Java-2-Aug21](https://github.com/ExgnosisClasses/IBM-Java-2-Aug21-23)): Content for the intermediate repo will be finalized by August 28
+[Intermediate Java Repo](https://github.com/ExgnosisClasses/IBM-Java-2-Aug21-23)): Content for the intermediate repo will be finalized by August 28
 
 ## Reading List
 
@@ -24,7 +24,7 @@ The best tutorial around is probably the official Oracle Java tutorial [here](ht
 
 ### Videos
 
-The highest rated computer science course in the world for those starting to learn programming
+The highest ated computer science course in the world for those starting to learn programming
 
 [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710)
 
