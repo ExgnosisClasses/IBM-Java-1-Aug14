@@ -51,6 +51,4 @@ The highest ated computer science course in the world for those starting to lear
 1. [Stanford University Intro to Java](https://www.youtube.com/watch?v=rKekrSfW-xI)
 2. [Princeton Programming in Java](https://introcs.cs.princeton.edu/java/home/): _Note that the author Robert Sedgewick is considered to be one of the leading authorities in algorithm design_
 
-## Resources
 
-1. 
