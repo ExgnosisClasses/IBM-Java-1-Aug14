@@ -3,7 +3,7 @@
 
 This repository contains all the instructional materials used in the Introduction to Java Class.
 
-The repo will be available for 30 days or until Sept 19, 2023.
+The repo will be available until Oct 1, 2023.
 
 The material in this repository created by Rod Davison is distributed under a creative commons licence. Other materials in the repository have been licensed by their authors for free distribution or have been made freely available.
 
